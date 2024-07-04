@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap);@tailwind base;@tailwind components;@tailwind utilities;body{font-family:"Poppins",sans-serif}.chart-container{transition:all .3s ease}.chart-container:hover{transform:translateY(-5px)}
+/*# sourceMappingURL=main.7c7ba26d.chunk.css.map */

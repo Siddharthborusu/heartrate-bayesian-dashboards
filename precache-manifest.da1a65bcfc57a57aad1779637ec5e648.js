@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8981f18e19e296080cc66c17d93d83e1",
+    "revision": "d8eae977e851bb10dfd3f3b4541bc073",
     "url": "/heartrate-bayesian-dashboards/index.html"
   },
   {
-    "revision": "faffaef8783b12c1a0da",
+    "revision": "ffb9ca5ccbadaa6e0600",
     "url": "/heartrate-bayesian-dashboards/static/css/main.9b244cf8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heartrate-bayesian-dashboards/static/js/2.3a221286.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faffaef8783b12c1a0da",
-    "url": "/heartrate-bayesian-dashboards/static/js/main.a37c1fd6.chunk.js"
+    "revision": "ffb9ca5ccbadaa6e0600",
+    "url": "/heartrate-bayesian-dashboards/static/js/main.ea6f4162.chunk.js"
   },
   {
     "revision": "e73d2240d6beead35b61",

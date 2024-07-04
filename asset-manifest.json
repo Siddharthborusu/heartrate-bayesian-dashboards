@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/heartrate-bayesian-dashboards/static/css/main.9b244cf8.chunk.css",
-    "main.js": "/heartrate-bayesian-dashboards/static/js/main.a37c1fd6.chunk.js",
-    "main.js.map": "/heartrate-bayesian-dashboards/static/js/main.a37c1fd6.chunk.js.map",
+    "main.js": "/heartrate-bayesian-dashboards/static/js/main.ea6f4162.chunk.js",
+    "main.js.map": "/heartrate-bayesian-dashboards/static/js/main.ea6f4162.chunk.js.map",
     "runtime-main.js": "/heartrate-bayesian-dashboards/static/js/runtime-main.bab71237.js",
     "runtime-main.js.map": "/heartrate-bayesian-dashboards/static/js/runtime-main.bab71237.js.map",
     "static/js/2.3a221286.chunk.js": "/heartrate-bayesian-dashboards/static/js/2.3a221286.chunk.js",
     "static/js/2.3a221286.chunk.js.map": "/heartrate-bayesian-dashboards/static/js/2.3a221286.chunk.js.map",
     "index.html": "/heartrate-bayesian-dashboards/index.html",
-    "precache-manifest.2cba85ae35bf84500446f43075d211fc.js": "/heartrate-bayesian-dashboards/precache-manifest.2cba85ae35bf84500446f43075d211fc.js",
+    "precache-manifest.da1a65bcfc57a57aad1779637ec5e648.js": "/heartrate-bayesian-dashboards/precache-manifest.da1a65bcfc57a57aad1779637ec5e648.js",
     "service-worker.js": "/heartrate-bayesian-dashboards/service-worker.js",
     "static/css/main.9b244cf8.chunk.css.map": "/heartrate-bayesian-dashboards/static/css/main.9b244cf8.chunk.css.map",
     "static/js/2.3a221286.chunk.js.LICENSE.txt": "/heartrate-bayesian-dashboards/static/js/2.3a221286.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bab71237.js",
     "static/js/2.3a221286.chunk.js",
     "static/css/main.9b244cf8.chunk.css",
-    "static/js/main.a37c1fd6.chunk.js"
+    "static/js/main.ea6f4162.chunk.js"
   ]
 }

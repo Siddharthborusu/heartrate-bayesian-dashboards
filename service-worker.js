@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/heartrate-bayesian-dashboards/precache-manifest.da1a65bcfc57a57aad1779637ec5e648.js"
+  "/heartrate-bayesian-dashboards/precache-manifest.e3a2c19a9b1933e04ad0aa20330f29f7.js"
 );
 
 self.addEventListener('message', (event) => {
